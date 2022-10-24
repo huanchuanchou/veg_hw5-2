@@ -1,0 +1,240 @@
+html {
+	box-sizing: border-box;
+	padding-top: 36px;
+	padding-left: 160px;
+	padding-right: 160px;
+	max-width: 1260px;
+	max-height: 880px;
+	background-color: #edf2c5;
+}
+.container {
+	display: flex;
+	width: 940px;
+	margin: 36px 829px -5px 300px;
+}
+.Vegetables {
+	width: 271px;
+	height: 62px;
+	margin: 0;
+	font-family: Arial;
+	font-size: 44px;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 0.82;
+	letter-spacing: normal;
+	text-align: left;
+	color: #778a50;
+}
+.FB_btn {
+	width: 25px;
+	height: 25px;
+	margin: 12px 5px 18px;
+	object-fit: contain;
+}
+.IG_btn {
+	width: 25px;
+	height: 25px;
+	margin: 12px 5px 18px;
+	object-fit: contain;
+}
+.line {
+	width: 1px;
+	height: 25px;
+	margin: 12px 5px 18px 5px;
+	background-color: #778a50;
+}
+.login {
+	width: 46px;
+	height: 15px;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.57;
+	letter-spacing: normal;
+	text-align: center;
+	vertical-align: middle;
+	color: #778a50;
+	padding: 0px 7px 15px 5px;
+	border: solid 1px #778a50;
+	border-radius: 3px;
+	margin: 10px 5px 18px 5px;
+}
+.join {
+	width: 46px;
+	height: 15px;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.57;
+	letter-spacing: normal;
+	text-align: center;
+	vertical-align: middle;
+	color: #778a50;
+	padding: 0px 7px 15px 5px;
+	border: solid 1px #778a50;
+	border-radius: 3px;
+	margin: 10px 0 18px 5px;
+}
+aside {
+	display: flex;
+	width: 540px;
+	justify-content: flex-end;
+}
+.nav_box {
+	background-color: #778a50;
+	width: 940px;
+	height: 44px;
+	box-sizing: border-box;
+	display: flex;
+	border-radius: 3px;
+	margin: 0 160px 0px 300px;
+}
+.nav_items {
+	list-style: none;
+	width: auto;
+	height: 44px;
+	padding-top: 5px;
+	margin: 0 60px 0px 0;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.25;
+	letter-spacing: normal;
+	text-align: left;
+	color: #edf2c5;
+	;
+}
+.pumpkin_img {
+	width: 940px;
+	height: 448px;
+	margin: 20px 0 30px;
+	object-fit: contain;
+	margin: 20px 160px 0px 300px;
+}
+.container2 {
+	display: flex;
+	margin: 0 0 35px 300px;
+}
+.veg {
+	width: 98px;
+	height: 23px;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.25;
+	letter-spacing: normal;
+	text-align: left;
+	color: #edf2c5;
+	margin-top: 0px;
+}
+.veg_box {
+	width: 444px;
+	height: 45px;
+	margin: 30px 52px 15px 0;
+	padding: 5px 316px 12px 30px;
+	border-radius: 3px;
+	background-color: #778a50;
+	box-sizing: border-box;
+}
+.veg_img {
+	width: 444px;
+	display: flex;
+	justify-content: space-between;
+}
+.con_box {
+	width: 444px;
+	height: 45px;
+	margin: 30px 52px 15px 0;
+	padding: 5px 316px 12px 30px;
+	border-radius: 3px;
+	background-color: #778a50;
+	box-sizing: border-box;
+}
+.con {
+	width: 98px;
+	height: 23px;
+	font-family: Arial;
+	font-size: 16px;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.25;
+	letter-spacing: normal;
+	text-align: left;
+	color: #edf2c5;
+	margin-top: 0px;
+}
+.for {
+	width: 414px;
+	height: 44px;
+	margin: 0 0 15px;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.25;
+	letter-spacing: normal;
+	text-align: left;
+	color: #7d7d7d;
+}
+.email {
+	width: 414px;
+	height: 44px;
+	margin: 0 0 15px;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.8;
+	letter-spacing: normal;
+	text-align: left;
+	color: #7d7d7d;
+}
+hr {
+	background-color: #7d7d7d;
+	border-style: none;
+	margin-bottom: 10px;
+	height: 1px;
+}
+.for_bg {
+	width: 444px;
+	height: 140px;
+	margin: 15px 0 0;
+	padding: 15px;
+	background-color: #f7fbda;
+	box-sizing: border-box;
+}
+footer {
+	width: 975px;
+	height: 60px;
+	padding: 0px 479px 0 480px;
+	background-color: #778a50;
+	margin: 0 0 0 -200px;
+	display: flex;
+}
+.footer_p {
+	width: 301px;
+	height: 14px;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 3;
+	letter-spacing: normal;
+	text-align: left;
+	color: #edf2c5;
+	display: flex;
+	padding: 0 0 0 300px;
+}
